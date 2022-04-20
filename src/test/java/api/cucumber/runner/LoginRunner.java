@@ -10,4 +10,5 @@ import org.junit.runner.RunWith;
         plugin = {"pretty","json:target/report.json"})
         //plugin = {"pretty","junit:target/report.xml"})
 public class LoginRunner {
+
 }

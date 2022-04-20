@@ -4,3 +4,10 @@
 /target/test-classes/api/cucumber/steps/LoginWithExampleSteps.class
 /target/test-classes/api/cucumber/runner/PostRunner.class
 /target/test-classes/api/cucumber/steps/PostSteps.class
+/BDDDemo_2.iml
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/runConfigurations.xml
+/.idea/vcs.xml

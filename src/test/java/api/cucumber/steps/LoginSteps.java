@@ -16,6 +16,7 @@ public class LoginSteps {
         for(List<String> row: rowList){
             for(String str : row){
                 System.out.println(("Data " + str));
+                System.out.println("This is a Stash tryout ");
             }
         }
     }
