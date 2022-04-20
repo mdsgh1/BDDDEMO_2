@@ -1,0 +1,6 @@
+/target/Htmlreports
+/target/test-classes/api/cucumber/runner/LoginRunner.class
+/target/test-classes/api/cucumber/steps/LoginSteps.class
+/target/test-classes/api/cucumber/steps/LoginWithExampleSteps.class
+/target/test-classes/api/cucumber/runner/PostRunner.class
+/target/test-classes/api/cucumber/steps/PostSteps.class
